@@ -4,7 +4,9 @@
 #已排除的规则数量:0
 
 #----------------------------------#
-
+DOMAIN-SUFFIX,hka-emby2.aliz.work
+DOMAIN-SUFFIX,hka-emby1.aliz.work
+DOMAIN-SUFFIX,hka-emby.aliz.work
 DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,porn.aca.best
 DOMAIN,cc.coemn.com
